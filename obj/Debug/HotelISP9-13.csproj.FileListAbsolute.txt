@@ -1,0 +1,126 @@
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe.config
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.pdb
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.dll
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.xml
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.g.cs
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\App.g.cs
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_Content.g.cs
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.cache
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.lref
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\App.baml
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.baml
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.g.resources
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9_13.Properties.Resources.resources
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.GenerateResource.cache
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CoreCompileInputs.cache
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CopyComplete
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.exe
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.pdb
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\IMac5\source\repos\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.baml
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe.config
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.pdb
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.dll
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.dll
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.xml
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.xml
+E:\HotelISP9-13\HotelISP9-13\bin\Debug\ru\EntityFramework.resources.dll
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.AssemblyReference.cache
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.SuggestedBindingRedirects.cache
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\App.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_Content.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.cache
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.lref
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\App.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.g.resources
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9_13.Properties.Resources.resources
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.GenerateResource.cache
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CoreCompileInputs.cache
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CopyComplete
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.exe
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.pdb
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.baml
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe.config
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.pdb
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.dll
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.dll
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.xml
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.xml
+D:\HotelISP9-13\HotelISP9-13\bin\Debug\ru\EntityFramework.resources.dll
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.AssemblyReference.cache
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.SuggestedBindingRedirects.cache
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\App.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_Content.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.cache
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.lref
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\App.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.g.resources
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9_13.Properties.Resources.resources
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.GenerateResource.cache
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CoreCompileInputs.cache
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CopyComplete
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.exe
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.pdb
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.baml
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.g.cs
+D:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.baml
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.g.cs
+E:\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\HotelISP9-13.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\App.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_Content.g.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13_MarkupCompile.lref
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\App.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\AddEditEmpoyees.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\ClientPage.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\HotelPage.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\menuPage.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Pages\WorkersPage.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\Windows\MainWindow.baml
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.g.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9_13.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.csproj.CopyComplete
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\HotelISP9-13\HotelISP9-13\obj\Debug\HotelISP9-13.pdb

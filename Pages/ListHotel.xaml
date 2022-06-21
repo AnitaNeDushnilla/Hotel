@@ -1,0 +1,23 @@
+﻿<Page x:Class="HotelISP9_13.Pages.ListHotel"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HotelISP9_13.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" 
+      d:DesignWidth="774"
+      Title="ListHotel">
+
+    <Grid HorizontalAlignment="Right" Margin="0,0,0.222,0" Width="774">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="180*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Заголовок" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Page>

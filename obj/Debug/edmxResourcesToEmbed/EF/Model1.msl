@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище HotelDBModelContainer" CdmEntityContainer="Entities1">
+    <EntitySetMapping Name="Client">
+      <EntityTypeMapping TypeName="HotelDBModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="IdPassport" ColumnName="IdPassport" />
+          <ScalarProperty Name="IdGender" ColumnName="IdGender" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employee">
+      <EntityTypeMapping TypeName="HotelDBModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="IdRole" ColumnName="IdRole" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gender">
+      <EntityTypeMapping TypeName="HotelDBModel.Gender">
+        <MappingFragment StoreEntitySet="Gender">
+          <ScalarProperty Name="IdGender" ColumnName="IdGender" />
+          <ScalarProperty Name="NameGender" ColumnName="NameGender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hotel">
+      <EntityTypeMapping TypeName="HotelDBModel.Hotel">
+        <MappingFragment StoreEntitySet="Hotel">
+          <ScalarProperty Name="IdHotel" ColumnName="IdHotel" />
+          <ScalarProperty Name="HotelName" ColumnName="HotelName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Stars" ColumnName="Stars" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="MainPhoto" ColumnName="MainPhoto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HotelRoom">
+      <EntityTypeMapping TypeName="HotelDBModel.HotelRoom">
+        <MappingFragment StoreEntitySet="HotelRoom">
+          <ScalarProperty Name="IdRoom" ColumnName="IdRoom" />
+          <ScalarProperty Name="RoomNumber" ColumnName="RoomNumber" />
+          <ScalarProperty Name="IdTypeRoom" ColumnName="IdTypeRoom" />
+          <ScalarProperty Name="CountOfBeds" ColumnName="CountOfBeds" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="IdHotel" ColumnName="IdHotel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Passport">
+      <EntityTypeMapping TypeName="HotelDBModel.Passport">
+        <MappingFragment StoreEntitySet="Passport">
+          <ScalarProperty Name="IdPassport" ColumnName="IdPassport" />
+          <ScalarProperty Name="SeriesPassport" ColumnName="SeriesPassport" />
+          <ScalarProperty Name="NumberPassport" ColumnName="NumberPassport" />
+          <ScalarProperty Name="Issued" ColumnName="Issued" />
+          <ScalarProperty Name="DateIssued" ColumnName="DateIssued" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RentRoom">
+      <EntityTypeMapping TypeName="HotelDBModel.RentRoom">
+        <MappingFragment StoreEntitySet="RentRoom">
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="IdRoom" ColumnName="IdRoom" />
+          <ScalarProperty Name="DateRent" ColumnName="DateRent" />
+          <ScalarProperty Name="RentalPeriod" ColumnName="RentalPeriod" />
+          <ScalarProperty Name="IdEmployee" ColumnName="IdEmployee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Role">
+      <EntityTypeMapping TypeName="HotelDBModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="IdRole" ColumnName="IdRole" />
+          <ScalarProperty Name="NameRole" ColumnName="NameRole" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="HotelDBModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeRoom">
+      <EntityTypeMapping TypeName="HotelDBModel.TypeRoom">
+        <MappingFragment StoreEntitySet="TypeRoom">
+          <ScalarProperty Name="IdTypeRoom" ColumnName="IdTypeRoom" />
+          <ScalarProperty Name="NameTypeRoom" ColumnName="NameTypeRoom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="Хранилище HotelDBModel.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="Хранилище HotelDBModel.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="Хранилище HotelDBModel.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="Хранилище HotelDBModel.sp_helpdiagramdefinition" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="Хранилище HotelDBModel.sp_helpdiagrams" />
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="Хранилище HotelDBModel.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="Хранилище HotelDBModel.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

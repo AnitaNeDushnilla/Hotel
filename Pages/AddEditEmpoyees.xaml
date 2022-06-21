@@ -1,0 +1,180 @@
+﻿<Page x:Class="HotelISP9_13.Pages.AddEditEmpoyees"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HotelISP9_13.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" 
+      d:DesignWidth="764"
+      Title="AddEditEmpoyees">
+
+    <Grid Background="#FFF5ECFF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width= "*"/>
+            <ColumnDefinition Width= "*"/>
+        </Grid.ColumnDefinitions>
+        <!--Заголовок-->
+        <TextBlock x:Name="tbTitle"
+                   Text="Добавить сотрудника"
+                   FontSize="30"
+                   FontFamily="Book Antiqua"
+                   Grid.ColumnSpan="2"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"/>
+
+        <!--Левый столбец-->
+        <TextBlock Text="Фамилия"
+                   FontSize="20"
+                   Grid.Row="1"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="Имя"
+                   FontSize="20"
+                   Grid.Row="2"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="Логин"
+                   FontSize="20"
+                   Grid.Row="3"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="Пароль"
+                   FontSize="20"
+                   Grid.Row="4"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="Телефон"
+                   FontSize="20"
+                   Grid.Row="5"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="E-mail"
+                   FontSize="20"
+                   Grid.Row="6"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+        <TextBlock Text="Должность"
+                   FontSize="20"
+                   Grid.Row="7"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Center"
+                   Margin="30 0"/>
+
+        <!--Правый столбец-->
+        <TextBox x:Name="tbxLastName" 
+                 Grid.Column="1" 
+                 Grid.Row="1"
+                 Height="35"  
+                 Margin="20 0"    
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <TextBox x:Name="tbxName" 
+                 Grid.Column="1" 
+                 Grid.Row="2"
+                 Height="35"  
+                 Margin="20 0"
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <TextBox x:Name="tbxlogin" 
+                 Grid.Column="1" 
+                 Grid.Row="3"
+                 Height="35"  
+                 Margin="20 0"
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <PasswordBox x:Name="pswPass" 
+                 Grid.Column="1" 
+                 Grid.Row="4"
+                 Height="35"  
+                 Margin="20 0"
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <TextBox x:Name="tbxPhone" 
+                 Grid.Column="1" 
+                 Grid.Row="5"
+                 Height="35"  
+                 Margin="20 0"
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <TextBox x:Name="tbxMail" 
+                 Grid.Column="1" 
+                 Grid.Row="6"
+                 Height="35"  
+                 Margin="20 0"    
+                 FontSize="15"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left" 
+                 Width="250"/>
+
+        <ComboBox x:Name="cmbRole" 
+                  Width="170"
+                  Height="35"
+                  Margin="20 0"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Left" 
+                  Grid.Column="1" 
+                  Grid.Row="7"/>
+
+        <!--Кнопки-->
+        <Button x:Name="btnSave"
+                Content="Сохранить"
+                Grid.Row="8"
+                Grid.Column="0"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Right"
+                Margin="50 0"
+                Width="150"
+                FontSize="23" 
+                Background="#FFB3A8D0"
+                BorderBrush="{x:Null}"
+               Click="btnSave_Click"/>
+
+        <Button x:Name="btnCancel"
+                Content="Отмена"
+                Grid.Row="8"
+                Grid.Column="1"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+                Margin="50 0"
+                Width="150"
+                FontSize="23" 
+                Background="#FFB3A8D0" 
+                BorderBrush="{x:Null}"
+                Click="btnCancel_Click"/>
+
+
+    </Grid>
+</Page>

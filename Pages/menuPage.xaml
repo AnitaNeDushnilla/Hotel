@@ -1,0 +1,31 @@
+﻿<Page x:Class="HotelISP9_13.Pages.menuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HotelISP9_13.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" 
+      d:DesignWidth="260"
+      Title="menuPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock 
+            VerticalAlignment="Center"
+            HorizontalAlignment="Left"
+            FontSize="36"
+            TextWrapping="Wrap"
+            Text="Бронь отелей" FontFamily="Book Antiqua"/>
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,249,0,0" Grid.RowSpan="2">
+            <Button x:Name="btnHome" Content="Главная" Style="{StaticResource ButtonMenuStyle1}" Click="btnHome_Click" FontFamily="Book Antiqua"/>
+            <Button x:Name="btnHotel" Content="Список отелей" Style="{StaticResource ButtonMenuStyle1}" Click="btnHotel_Click" FontFamily="Book Antiqua"/>
+            <Button x:Name="btnWorker" Content="Список сотрудников" Style="{StaticResource ButtonMenuStyle1}" Click="btnWorker_Click" FontFamily="Book Antiqua" FontSize="24"/>
+            <Button x:Name="btnClients" Content="Список клиентов" Style="{StaticResource ButtonMenuStyle1}" Click="btnClients_Click" FontFamily="Book Antiqua"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
